@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine Simulator with Java/task" />
+            <option value="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching (1)/Integer iteration with selective conditions and halt" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching (1)/Printing even numbers with a skip condition" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching (1)/Statement for skipping an iteration" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching (1)/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching (1)/The integer barrier" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Integer iteration with selective conditions and halt" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Statement for skipping an iteration" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/The integer barrier" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Abs method" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Call me awesome" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Calling myMethod  Store the Result" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Correct names for methods" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Invoking Methods with Type Casting" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Method invocation" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Product and rounded average of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Boys in a sport class" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Check the given numbers are different" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Comparing two integers  greater, less or equal" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Exactly one parameter is positive" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Existing operators" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Groundhogs at a party" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Job offer" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determine if a number is positive, negative or zero" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determining range of an integer  low, mid or high" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determining whether a number is positive, negative, or zero" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Interval" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Leap year" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Method signature" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Sum of numbers in the range" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Syntactically correct declarations" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/A quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Checking divisibility and printing appropriate strings" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Decomposing switch cases in Java" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/How to decompose correctly" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Method createFullName" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Day of the week from an integer" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Shape" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Test learners" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Celsius Chase  Climbing to a Fiery Halt" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Finding the smallest multiple of 3 larger than 'n'" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Statements" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/The largest element of a sequence" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/The length of the sequence" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/The number of loop body executions" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/The sequence" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/The sum of elements" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
